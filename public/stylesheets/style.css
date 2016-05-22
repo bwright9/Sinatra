@@ -1,0 +1,136 @@
+html {
+  background: url("https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/11934938_10154230069774832_8834945912081765060_o.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+  margin-left: 10%;
+  width: 600px;
+  background-color: rgba(0,0,0, .7);
+}
+
+.title {
+  text-align: left; 
+  font-size: 50px;
+  padding: 20px;
+  color: white; 
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 25px;
+  margin: 0px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
+
+
+.header {
+  font-size: 50px;
+
+}
+
+
+.hero {
+  padding: 20px;
+  color: white; 
+  font-size: 20px;
+  text-align: left; 
+}
+
+.gallery {
+
+}
+
+.gallery-item {
+  margin: 20px;
+}
+
+.gallery-item .thumbnail {
+  border: 5px solid #fff;
+
+}
+
+p {
+  width: 500px;
+}
+
+
+
+.tm-section-title {
+color: white;
+margin: 10px; 
+line-height: 3em;
+
+}
+
+.contact {
+  line-height: 9em; 
+
+}
+
+
+.resume {
+  text-align: center;
+  color: white;
+  font-style: bold; 
+  font-size: 50px; 
+
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#page-wrap {
+  width: 660px;
+  background: white;
+  padding: 20px 50px 20px 50px;
+  margin: 20px auto;
+  min-height: 500px;
+  height: auto !important;
+  height: 500px;
+}
+
+#contact-area {
+  width: 600px;
+  margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea {
+  padding: 5px;
+  width: 471px;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.4em;
+  margin: 0px 0px 10px 0px;
+  border: 2px solid #ccc;
+}
+
+#contact-area textarea {
+  height: 90px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+  border: 2px solid #900;
+}
+
+#contact-area input.submit-button {
+  width: 100px;
+  float: right;
+}
+
+label {
+  float: left;
+  text-align: right;
+  margin-right: 15px;
+  width: 100px;
+  padding-top: 5px;
+  font-size: 1.4em;
+}
+
+
